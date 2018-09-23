@@ -1,3 +1,5 @@
+
+
 /* feedreader.js
  *
  * This is the spec file that Jasmine will read and contains
@@ -104,14 +106,14 @@ $(function() {
         loadFeed(1, function() {
           done();
         });
-      
+      });
+  });
             
                 it("changes its loaded content", function(done) {
       var newFeedSelection = document.querySelector(".feed").innerHTML;
       expect(initFeedSelection).not.toBe(newFeedSelection);
       done();
     });
-});
-});
-  
+  });
+
 
