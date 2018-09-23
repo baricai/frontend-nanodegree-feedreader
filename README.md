@@ -1,6 +1,6 @@
 Frontend-nanodegree-feedreader
 
--We tested the html website with the Jasmine library, we created 
+-We tested the html website with the Jasmine library, our first spec RDD feed was given by default. then had to create ToDo specs according to the instruction in the feedreader.js file that came with it. We had to create several suite to make the tests passed. This tool is very functional when it comes to test JS language.
 
 # Project Overview
 
