@@ -111,7 +111,7 @@ $(function() {
       expect(initFeedSelection).not.toBe(newFeedSelection);
       done();
     });
+});
+});
   
-
-
 
